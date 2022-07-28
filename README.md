@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marc Nicolas Oliva, current Computer Programming student at Seneca in Toronto.
 - 👀 I’m interested in anything computer related, I love problem solving and challenges in general.
-- 🌱 I’m currently learning C++ and data structures.
 - 💞️ I’m looking to collaborate on anything that can help me grow and learn a little bit more every day.
 - 📫 marc.nicolasoliva@hotmail.com
 
